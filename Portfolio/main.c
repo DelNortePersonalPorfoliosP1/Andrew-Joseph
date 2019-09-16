@@ -10,7 +10,7 @@
 #include "Simple.h"
 #include "Q2.h"
 
-
+// main function
 int main(int argc, const char * argv[]) {
     int score = 0;
 
