@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6DFF6CB32332F7C200761211 /* time.c in Sources */ = {isa = PBXBuildFile; fileRef = 6DFF6CB22332F7C200761211 /* time.c */; };
 		C00DCFD8233145C800B2A946 /* quiz.c in Sources */ = {isa = PBXBuildFile; fileRef = C00DCFD7233145C800B2A946 /* quiz.c */; };
-		C00DCFDA23314A4300B2A946 /* time.c in Sources */ = {isa = PBXBuildFile; fileRef = C00DCFD923314A4300B2A946 /* time.c */; };
 		C039B1A723201453003B9957 /* Q2.c in Sources */ = {isa = PBXBuildFile; fileRef = C039B1A623201453003B9957 /* Q2.c */; };
 		C071F290231ECD6E007247B9 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = C071F28F231ECD6E007247B9 /* main.c */; };
 		C071F298231ECD83007247B9 /* Simple.c in Sources */ = {isa = PBXBuildFile; fileRef = C071F297231ECD82007247B9 /* Simple.c */; };
@@ -27,9 +27,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6DFF6CB22332F7C200761211 /* time.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = time.c; sourceTree = "<group>"; };
 		C00DCFD6233145C800B2A946 /* quiz.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = quiz.h; sourceTree = "<group>"; };
 		C00DCFD7233145C800B2A946 /* quiz.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = quiz.c; sourceTree = "<group>"; };
-		C00DCFD923314A4300B2A946 /* time.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = time.c; path = ../../../Desktop/Clock/Clock/time.c; sourceTree = "<group>"; };
 		C00DCFDB23314A7800B2A946 /* time.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = time.h; sourceTree = "<group>"; };
 		C039B1A523201453003B9957 /* Q2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Q2.h; sourceTree = "<group>"; };
 		C039B1A623201453003B9957 /* Q2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Q2.c; sourceTree = "<group>"; };
@@ -78,7 +78,7 @@
 				C071F297231ECD82007247B9 /* Simple.c */,
 				C039B1A523201453003B9957 /* Q2.h */,
 				C039B1A623201453003B9957 /* Q2.c */,
-				C00DCFD923314A4300B2A946 /* time.c */,
+				6DFF6CB22332F7C200761211 /* time.c */,
 				C00DCFDB23314A7800B2A946 /* time.h */,
 			);
 			path = Portfolio;
@@ -140,8 +140,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C00DCFDA23314A4300B2A946 /* time.c in Sources */,
 				C00DCFD8233145C800B2A946 /* quiz.c in Sources */,
+				6DFF6CB32332F7C200761211 /* time.c in Sources */,
 				C071F290231ECD6E007247B9 /* main.c in Sources */,
 				C071F298231ECD83007247B9 /* Simple.c in Sources */,
 				C039B1A723201453003B9957 /* Q2.c in Sources */,
