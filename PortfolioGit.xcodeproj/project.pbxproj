@@ -12,6 +12,8 @@
 		C039B1A723201453003B9957 /* Q2.c in Sources */ = {isa = PBXBuildFile; fileRef = C039B1A623201453003B9957 /* Q2.c */; };
 		C071F290231ECD6E007247B9 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = C071F28F231ECD6E007247B9 /* main.c */; };
 		C071F298231ECD83007247B9 /* Simple.c in Sources */ = {isa = PBXBuildFile; fileRef = C071F297231ECD82007247B9 /* Simple.c */; };
+		C08F1B9F2333E1AB00BF558D /* pythagoras.c in Sources */ = {isa = PBXBuildFile; fileRef = C08F1B9E2333E1AB00BF558D /* pythagoras.c */; };
+		C08F1BA22333E22700BF558D /* temperature.c in Sources */ = {isa = PBXBuildFile; fileRef = C08F1BA12333E22700BF558D /* temperature.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +39,10 @@
 		C071F28F231ECD6E007247B9 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		C071F296231ECD82007247B9 /* Simple.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Simple.h; sourceTree = "<group>"; };
 		C071F297231ECD82007247B9 /* Simple.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Simple.c; sourceTree = "<group>"; };
+		C08F1B9E2333E1AB00BF558D /* pythagoras.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = pythagoras.c; path = "../../../Desktop/Triangle lab/Triangle lab/pythagoras.c"; sourceTree = "<group>"; };
+		C08F1BA02333E1BB00BF558D /* pythagoras.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = pythagoras.h; sourceTree = "<group>"; };
+		C08F1BA12333E22700BF558D /* temperature.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = temperature.c; path = ../../../Desktop/Temperature/Temperature/temperature.c; sourceTree = "<group>"; };
+		C0A6AB10233523F200A83C1F /* temperature.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = temperature.h; sourceTree = "<group>"; };
 		C0B447242321659100ACF54B /* Counter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Counter.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -80,6 +86,10 @@
 				C039B1A623201453003B9957 /* Q2.c */,
 				6DFF6CB22332F7C200761211 /* time.c */,
 				C00DCFDB23314A7800B2A946 /* time.h */,
+				C08F1B9E2333E1AB00BF558D /* pythagoras.c */,
+				C08F1BA02333E1BB00BF558D /* pythagoras.h */,
+				C08F1BA12333E22700BF558D /* temperature.c */,
+				C0A6AB10233523F200A83C1F /* temperature.h */,
 			);
 			path = Portfolio;
 			sourceTree = "<group>";
@@ -142,8 +152,10 @@
 			files = (
 				C00DCFD8233145C800B2A946 /* quiz.c in Sources */,
 				6DFF6CB32332F7C200761211 /* time.c in Sources */,
+				C08F1B9F2333E1AB00BF558D /* pythagoras.c in Sources */,
 				C071F290231ECD6E007247B9 /* main.c in Sources */,
 				C071F298231ECD83007247B9 /* Simple.c in Sources */,
+				C08F1BA22333E22700BF558D /* temperature.c in Sources */,
 				C039B1A723201453003B9957 /* Q2.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
